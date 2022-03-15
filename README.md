@@ -6,5 +6,7 @@ My data of choice came from Kaggle and it has information on Netflix library siz
 
 Source: https://www.kaggle.com/prasertk/netflix-subscription-price-in-different-countries/version/2?select=Netflix+subscription+fee+Dec-2021.csv
 
-## How it works:
+## How It Works:
+
+## Meeting Benchmarks:
 
